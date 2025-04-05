@@ -1,5 +1,4 @@
 import csv
-import pprint
 from constants import KD, KAST, ADR, KPR, APR, HS_PERCENT, CL_PERCENT
 
 

@@ -8,5 +8,3 @@ This is a simple project for practice building one from scratch, the goal of it 
 
 # Requirements
 - Any version of Python3
-
-If your version of Python isn't 3 then input "pip install -r requirements.txt" while in the project root directory.
