@@ -4,7 +4,9 @@ This is a simple project for practice building one from scratch, the goal of it 
 # Features
 - Gives best player from the csv by typing in the terminal "python3 main.py get-best-player"
 - Gives worst player from the csv by typing "python3 main.py get-worst-player"
-- Can compare two or more players by typing "python3 main.py compare-players", this will then prompt you to input two or more different players and it'll output you the stats it's comparing and tell you the best and worst players in descending order based on those stats.
+- Can compare two or more players by typing "python3 main.py compare-players", this will then prompt   you to input two or more different players and it'll output you the stats it's comparing and tell you the best and worst players in descending order based on those stats.
 
 # Requirements
-To be filled out upon project completion.
+- Any version of Python3
+
+If your version of Python isn't 3 then input "pip install -r requirements.txt" while in the project root directory.
